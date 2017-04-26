@@ -53,14 +53,14 @@ nav {
 	position: relative;
 	padding: 0;
 	width: 100%;
-	height: 100%;
+	height: 50%;
 	margin: 0 auto;
 	font-family: italic;
 }
 
 ul {
 	width: 100%;
-	height: 100%;
+	height: 35%;
 	padding: 0;
 	margin: 0 auto;
 	position: relative;
@@ -234,7 +234,7 @@ iframe {
 .list {
   background:white;
   float: left;
-  margin: 24px;
+  margin: 35px;
   padding: 3px;
   border: 5px ridge green;
   border-radius: 10px;
